@@ -1,3 +1,3 @@
 # hello-world
  
- Hi,hunmans!
+ Hi,humans!
